@@ -42,7 +42,7 @@ Practical SQL scripts for analytics — from database exploration to segmentatio
 **Rudra Pratap Singh**  
 Data Analyst | SQL • Python • Power BI  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/rudra-pratap-singhya-19491431a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/rudra-pratap-singh10)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/RudraPratapSingh10)
 
 ---
